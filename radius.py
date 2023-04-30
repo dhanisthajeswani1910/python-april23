@@ -7,3 +7,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... area = 3.14 * radius * radius
 ... 
 ... # Print the area
+...print("The area of the circle with radius is:", area)
